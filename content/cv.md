@@ -23,20 +23,20 @@
 **Student Helper**, The Effect of Red Tape on Emotions: A Comparative Replication Study, *05/2024*
 - Advisor: Prof. Bert GEORGE, Department of Public and International Affairs, City University of Hong Kong
 
-**Poster Team Leader**, The Road Not Taken: Navigating Motivation, Ability, and Performance in Public Service Amidst the Shadows of Corruption, *02/2024 ¨C 04/2024*
+**Poster Team Leader**, The Road Not Taken: Navigating Motivation, Ability, and Performance in Public Service Amidst the Shadows of Corruption, *02/2024 - 04/2024*
 - Advisor: Prof. Yanto CHANDRA, Department of Public and International Affairs, City University of Hong Kong
 
 **Team Leader**, Natural Disaster Rumors on the Weibo Platform, *09/2023 - 01/2024*
 - Research Project of the Guangdong-Hong Kong-Macau Public Administration Analytics Contests in 2023
 - Advisor: Prof. Ning LIU & Tat Kei Alfred HO, Department of Public and International Affairs, City University of Hong Kong
 
-** Principal Investigator (RMB 50,000)**, Exploration of Ways for College Students to Participate in Social Practice, *06/2020 - 12/2022*
+**Principal Investigator (RMB 50,000)**, Exploration of Ways for College Students to Participate in Social Practice, *06/2020 - 12/2022*
 - Research Project of the Special Fund for Science and Technology Innovation Strategy of Guangdong Province in 2022
 
-** Principal Investigator (RMB 10,000)**, The Multi-dimensional Integration of Rural Revitalisation Resource Brands, *06/2021 - 06/2022*
+**Principal Investigator (RMB 10,000)**, The Multi-dimensional Integration of Rural Revitalisation Resource Brands, *06/2021 - 06/2022*
 - Research Project of the Provincial College Students' innovation and entrepreneurship training program in 2022
 
-** Principal Investigator (RMB 10,000)**, Researching Financial Innovation in New-type Urbanisation Construction, *06/2020 - 06/2021*
+**Principal Investigator (RMB 10,000)**, Researching Financial Innovation in New-type Urbanisation Construction, *06/2020 - 06/2021*
 - Research Project of the Provincial College Students' innovation and entrepreneurship training program in 2021
 
 
@@ -44,7 +44,7 @@
 
 **Municipal Civil Affairs Bureau**, *02/2023-03/2023*
 
-** Villagers¡¯ Committee Office**, *07/2022-09/2022*
+**Villagers' Committee Office**, *07/2022-09/2022*
 
 **Communist Youth League Committee of the School**, *10/2019-09/2022*
 
