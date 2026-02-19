@@ -40,7 +40,7 @@
 - Research Project of the Provincial College Students' innovation and entrepreneurship training program in 2021
 
 
-## Intership
+## Internship
 
 **Municipal Civil Affairs Bureau**, *02/2023-03/2023*
 
