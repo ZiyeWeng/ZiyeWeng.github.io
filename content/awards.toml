@@ -1,27 +1,45 @@
 type = "card"
 title = "Awards"
-description = "Honors and awards I have received."
+description = "Honors and Awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Outstanding Student Leadership of Guangdong Province"
+subtitle = "Guangdong Student Federation"
 date = "2022"
-content = "Description of the award."
+content = ""
+
+[[items]]
+title = "National Best Social Practice Individuals (ONLY 300 in China)"
+subtitle = "China Youth Daily"
+date = "2021"
+content = ""
+
+[[items]]
+title = "Outstanding Youth of Zhuhai City"
+subtitle = "Communist Youth League Zhuhai Municipal Committee"
+date = "2023"
+content = ""
+
+[[items]]
+title = "Outstanding Volunteer of Guangdong Province"
+subtitle = "Department of Civil Affairs of Guangdong Province"
+date = "2024"
+content = ""
+
+[[items]]
+title = "National Scholarship (Top 0.2%)"
+subtitle = "Ministry of Education of the People's Republic of China"
+date = "2022"
+content = ""
+
+[[items]]
+title = "The University Premier Scholarship & The School Distinguished Scholarship (Top 0.5%, Four Times)"
+subtitle = "Undergraduate"
+date = "2019-2023"
+content = ""
+
+[[items]]
+title = "Grand Prize Academic Scholarship(1/74, Three Times)"
+subtitle = "Undergraduate"
+date = "2019-2023"
+content = ""

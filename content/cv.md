@@ -1,26 +1,14 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Shanghai Jiao Tong University**, Ph.D. in Public Administration, *04/2025 - Present*
+- Supervisor: Prof. Bangcheng LIU
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
+**City University of Hong Kong**, MA Public Policy and Management (Public Policy Stream), *09/2023 ¨C 10/2024*
+- Supervisor: Prof. Yanto CHANDRA
+- Graduated with First Class Honours, Affiliated Student Representative of Programme Committee
+
+**Beijing Institute of Technology, Zhuhai**, Bachelor in Management, *09/2019 ¨C 07/2023*
 - Graduated with First Class Honours
+- Scholarships: National Scholarship (Top 0.2%); Grand Prize Academic Scholarships (1/74, Three Times); The University Premier Scholarships & The School's Most Distinguished Scholarships (Top 0.5%, Four Times)
+- Honors: Excellent Student Leader of Guangdong Province (1/20108); National Best Social Practice Individuals (ONLY 300 in China); Outstanding Volunteer of Guangdong Province (With 643 HOURS); Outstanding Youth of Zhuhai City (2/20108); Awards: 100 + total, involving 8 National, 27 Provincial, 12 Municipal and 52 Univ level, etc.
 
-## Experience
-
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
-
-## Skills
-
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
-
-## Awards & Honors
-
-- **First Prize in Example Competition** - Committee of Example (*2024*)
