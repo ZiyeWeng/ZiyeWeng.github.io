@@ -21,7 +21,7 @@ Through extended social practice projects and internships in local government of
 
 That realization changed my trajectory.
 
-I decided to pursue a master¡¯s degree in public policy and management, leaving my original disciplinary path behind. It was not an impulsive decision, but the result of years of experimentation. What began as scattered attempts to ¡°try everything¡± gradually converged into a clearer intellectual curiosity: how institutions shape people, and how people navigate institutions.
+I decided to pursue a master's degree in public policy and management, leaving my original disciplinary path behind. It was not an impulsive decision, but the result of years of experimentation. What began as scattered attempts to try everything gradually converged into a clearer intellectual curiosity: how institutions shape people, and how people navigate institutions.
 
 Graduate school was not a dramatic transformation, but a process of narrowing and deepening. I became more comfortable with uncertainty, more patient with complexity, and more honest about what I did not know. I stopped asking what role would make me impressive, and started asking what questions genuinely mattered to me.
 
@@ -29,4 +29,4 @@ It has been shaped by confusion, persistence, recalibration, and growth. But thr
 
 I am still learning. I am still refining my path.
 
-Scholarship, to me, is not a solitary pursuit, but a shared conversation. Let¡¯s continue that conversation together.
+Scholarship, to me, is not a solitary pursuit, but a shared conversation. Let's continue that conversation together.
